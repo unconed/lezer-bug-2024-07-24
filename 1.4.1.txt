@@ -1,0 +1,19 @@
+
+> lezer-bug@1.0.0 run
+> ts-node src/main.ts
+
+Program                                                     
+  LocalDeclaration                                          
+    GlobalConstantDeclaration                               
+      AttributeList                                         
+      Keyword                                               
+      VariableIdentifier                                    
+        Identifier                                          
+      Assign                                                
+  AttributeList                                             
+  LocalDeclaration                                          
+    GlobalConstantDeclaration                               
+      Keyword                                               
+      VariableIdentifier                                    
+        Identifier                                          
+      Assign                                                
